@@ -1,0 +1,61 @@
+Pages:
+	Home Page
+		Contains short biography of frank along with a description of what he does and a few examples of work. it will also be the greeting page of visitors and therefore have links and 'check out this' (kind of thing) to other parts of the website depending on what they are after. 
+	Gallery
+		The gallery will contain all of franks work and display it's name, description... [if it is being sold it will also do something.]
+	Upcoming Events
+		the upcoming events page will display all of franks upcoming events (like shows and stuff) it will also have a brief description about the event and a bit of background on the venue. there will also be a ling to page showing all of his previous events that will be stored when a new event is added.
+	Past events
+									^^^^^^^^^^^^^^^^^^^^^^
+	About Frank
+		this will be the page dedicated to frank himself and show a biography type thing about him, his work and his history. it will also have links to pages about him (if permission is allowed). oh yeah this will also have youtube (other videos sources are available and may be used...unlikely though) videos and things people can watch about frank and his box art.
+	Contacts
+		the contacts page is simply a page with all the ways people can get in contact with frank himself and if that doesn't take up much space (which it most likely won't) then it'll also have threads and streams from sites like facebook, twitter. and if that still isn't enough then it'll have a forum like blog thing which people can comment on and 'pm' frank with.
+		
+Just look below for more random info and ideas 
+									vvvvvvvvvvvvvvvvvvvvvvv
+		
+Other stuff:
+Frank Desctription
+http://www.hampshire-life.co.uk/home/hampshire_life_1_1570206]
+http://www.hampshire-life.co.uk/out-about/boxing_clever_with_frank_jennings_deceptive_receptacles_1_2992356
+
+Contact:
+frank.jennings2@ntlworld.com
+
+Youtube:
+Greg Hewitt - Frank Jennings, whats in a box - http://www.youtube.com/watch?v=HE1CL-9TT8M
+
+Facebook:
+Frank Jennings - Deceptive Receptacles
+https://www.facebook.com/FrankJenningsDeceptiveReceptacles
+
+Old Website:
+http://homepage.ntlworld.com/frank.jennings2		(If host file)
+www.frankjennings.net								(If no host file)
+
+BBC:
+http://www.bbc.co.uk/northyorkshire/culture/reviews/receptacles/receptacles.shtml
+
+News:
+http://www.thirskweeklynews.com/review__frank_margaret_and_bryony_jennings-1142.html
+
+Right Widget:
+Upcoming Events 	(e.g. Exhibitions, auctions?)
+
+Bottom Widgets:
+Youtube Vids/Facebook/contact
+
+Pages:
+Home 			(Introduction to Frank and his art as well as a few links to external reports and interviews)
+Artwork
+	Box's		(Certain)
+	Cards		(Uncertain)?
+	Calendars	(Uncertain)?
+Gallery 		(contains all pieces)
+Shop			(sell's: cards, box art and calendars)?
+Contact Page		(Email, Social Media)
+
+
+Comment system on Artwork
+Comment system on home page?
