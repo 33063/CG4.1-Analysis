@@ -1,0 +1,65 @@
+﻿Revert "More galleries included"
+
+This reverts commit eca81378861c115885c211033940e3005de4651b.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	deleted:    Art/Alchemy/Alchemy.jpg
+#	deleted:    Art/Keeping the dream Alive/FJ Keeping the Dream Alive jpeg.jpg
+#	deleted:    Art/Keeping the dream Alive/Keeping the Dream Alive.jpg
+#	deleted:    Art/Naval Kit/Naval Kit .jpg
+#	deleted:    Art/Perfect Partners/Perf Partners.jpg
+#	deleted:    Art/Small museum/Small Museum.jpg
+#	deleted:    Art/Sound of Sirens/SOUNDS.jpg
+#	deleted:    Art/Sound of Sirens/The Sound of Sirens, Sounds.jpg
+#	deleted:    Art/Surrealists/Surrealist Species.jpg
+#	deleted:    Art/Surrealists/The Surrealist Museum.jpg
+#	deleted:    Art/Swan upping/._.DS_Store
+#	deleted:    Art/Swan upping/._Swan Upping According to the Western Surrealist Tradition. jpg.jpg
+#	deleted:    Art/Swan upping/Swan Upping According to the Western Surrealist Tradition. jpg.jpg
+#	deleted:    Art/Swan upping/Swan Upping.jpg
+#	deleted:    Art/Turkish Delights/Turkish Delights.jpg
+#
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    Art/Calendar 2011/Frank Jennings A4 wiro 2011 calendar-11852-2 (dragged).pdf
+#	deleted:    Art/Calendar 2011/Frank Jennings A4 wiro 2011 calendar-11852-2.pdf
+#	deleted:    Art/Chance encounter/Chance Encounter.... .pdf
+#	deleted:    Art/Chance encounter/Chance encounter..... (detail.pdf
+#	deleted:    Art/Columbus/Columbus's Cardigan, Columbus's Cardighan.jpg
+#	deleted:    Art/Columbus/Columbus's Cardighan. jpg.jpg
+#	deleted:    Art/Crust/Crust.jpg
+#	deleted:    Art/Discovery/THE NEW FLAVOUR OF DISCOVERY.jpg
+#	deleted:    Art/Discovery/THE NEW FLAVOUR OF DISCOVERY.tif
+#	deleted:    Art/Disparate Measures/Disparate Measures.jpg
+#	deleted:    Art/Don Quixote/Don Quixote's Eastern Progress is Thwarted by a Freak Magnetic Storm.jpg
+#	deleted:    Art/Dutchman/From the Wardrobe of the Fastidious Dutchman.jpg
+#	deleted:    Art/Library/From the Library of the Unhinged Bibliofile.jpg
+#	deleted:    Art/Library/The Secret Library .jpg
+#	deleted:    Art/Library/frank_jennings (dragged) 5.pdf
+#	deleted:    Art/Military/._ military2.jpg
+#	deleted:    Art/Military/._Military Measures.jpg
+#	deleted:    Art/Military/Military Measures.jpg
+#	deleted:    Art/Military/military2.jpg
+#	deleted:    Art/White room/._.DS_Store
+#	deleted:    Art/White room/._In the White Room jpeg.jpg
+#	deleted:    Art/White room/._In the White Room.jpg
+#	deleted:    Art/White room/._White room 2.jpg
+#	deleted:    Art/White room/._White room 3.jpg
+#	deleted:    Art/White room/._white room.jpg
+#	deleted:    Art/White room/In the White Room jpeg.jpg
+#	deleted:    Art/White room/In the White Room.jpg
+#	deleted:    Art/White room/White room 2.jpg
+#	deleted:    Art/White room/White room 3.jpg
+#	deleted:    Art/White room/white room.jpg
+#
+
