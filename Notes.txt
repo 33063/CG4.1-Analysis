@@ -1,0 +1,5 @@
+Notes
+
+Interview, questionnaire, observation, existing documentation
+Inputs. outputs, hardware, software, queries, interface, data structures
+Hard Data (Mark out all sensitive/personal data). Receipts, invoices
